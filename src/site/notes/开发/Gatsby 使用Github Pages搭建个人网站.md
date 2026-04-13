@@ -3,7 +3,7 @@
 ---
 
 一、在Github上新建一个Repository用于存放Gateby的网站
-![6e2cc5b0275436c238989caf00a3b301_MD5.png](/img/user/%E5%BC%80%E5%8F%91/attachments/6e2cc5b0275436c238989caf00a3b301_MD5.png)
+![](/img/user/%E5%BC%80%E5%8F%91/attachments/6e2cc5b0275436c238989caf00a3b301_MD5.png)
 二、在本机（开发机）yunchenweb目录下安装gh-pages包
 ```
 npm install gh-pages --save-dev
@@ -30,7 +30,7 @@ module.exports = {
 git init
 git remote add origin https://github.com/nbpanda1978/yuchenweb.git
 ```
-![fdfaaac2be5f53bec93c884686652a93_MD5.png](/img/user/%E5%BC%80%E5%8F%91/attachments/fdfaaac2be5f53bec93c884686652a93_MD5.png)
+![](/img/user/%E5%BC%80%E5%8F%91/attachments/fdfaaac2be5f53bec93c884686652a93_MD5.png)
 
 五、发布至Github
 在本机（开发机）输入
